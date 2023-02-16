@@ -50,16 +50,7 @@ body {
 }
 
 .ai {
-  background:#40414F;
-  /* New code added */
-    justify-content: flex-end; 
-    align-items: center;
-    height: auto;
-    width: auto; /*50%;*/
-    margin: auto;
-    border: 2px solid lightgoldenrodyellow;
-    border-radius: 10px;
-  /* New code End */  
+  background:#40414F;  
 }
 
 .chat {
